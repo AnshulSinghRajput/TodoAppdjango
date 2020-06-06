@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4595bc64-8ade-46ff-acbf-43a8f5958529" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/css/cerulean.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/css/flatly.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/css/united.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/bs/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/original_template_code/todo/styles.css" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cx2iB39lzgpA10t0iPo85EyEyS" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4595bc64-8ade-46ff-acbf-43a8f5958529" name="Default Changelist" comment="" />
+      <created>1591456048451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591456048451</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
